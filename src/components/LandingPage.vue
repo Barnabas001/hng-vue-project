@@ -7,11 +7,10 @@
     />
     <div class="hero-content">
       <h1 id="hero-title" class="hero-title">
-        Manage tickets. Resolve faster.
+        My Ticket Management Platform
       </h1>
       <p class="lead">
-        A simple ticket management starter app. Build, track and close tickets
-        with ease.
+        Easy to use ticket management starter platform. Supper User friendly.
       </p>
       <div class="hero-actions">
         <button @click="$emit('login')">Get Started</button>
